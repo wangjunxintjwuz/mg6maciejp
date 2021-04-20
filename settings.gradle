@@ -1,1 +1,2 @@
+include ':android-maps-extensions'
 include ':BoringMapApp'
